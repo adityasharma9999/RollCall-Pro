@@ -87,7 +87,7 @@ Click your avatar (top right) → **Export PDF** or **Export Excel**.
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT — free to use, modify, and distribute. 
 
 ---
 
